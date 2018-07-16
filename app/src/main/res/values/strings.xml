@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DemoRecyclerView</string>
+    <string name="existfolder">not exist folder</string>
 </resources>
